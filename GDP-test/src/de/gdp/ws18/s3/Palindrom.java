@@ -25,5 +25,6 @@ public class Palindrom {
 
         System.out.println("Palindrom = " + Palindrom);
 
+        scanner.close();
     }
 }
