@@ -1,4 +1,4 @@
-package de.ostfalia.gdp.ws18.s2;
+package de.gdp.ws18.s2;
 
 import com.sun.javafx.tools.packager.CreateJarParams;
 
